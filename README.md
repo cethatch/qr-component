@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- My Solutioon Live Site URL: [Add live site URL here](https://cethatch.github.io/qr-component/)
+- My Solution Live Site URL: [Live site URL](https://cethatch.github.io/qr-component/)
 
 ## My process
 
